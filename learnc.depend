@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1604264189 source:/home/ishan/learning_c/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mytypes.h"
+
+1604264190 /home/ishan/learning_c/mytypes.h
+
+1604264445 source:/home/ishan/learning_c/mytyps.c
+	"mytyps.h"
+
+1604264398 /home/ishan/learning_c/mytyps.h
+
